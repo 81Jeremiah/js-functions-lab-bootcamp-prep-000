@@ -7,8 +7,8 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return "Happy holidays, ${name}!";
 }
-console.log 
-happyHolidaysTo("you")
+
+happyHolidaysTo(you)
 function happyHolidayTo(holiday, name) {
   return "Happy ${holiday}, ${name}!";
 }
